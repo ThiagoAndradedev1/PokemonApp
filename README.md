@@ -49,7 +49,7 @@ Outras dúvidas podem ser sanadas pelo repositório do [Create React App.](https
 ## ⛏️ Feito Com <a name = "feito_com"></a>
 
 - [ReactJs](https://reactjs.org) - Web Framework
-- [Firebase](https://firebase.google.com/?hl=pt-br) - Javascript Superset
+- [Firebase](https://firebase.google.com/?hl=pt-br) - Firebase
 - [ReactSemanticUI](https://react.semantic-ui.com/) - CSS Framework
 
 ## ✍️ Autores <a name = "autores"></a>
