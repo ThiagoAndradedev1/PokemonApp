@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://user-images.githubusercontent.com/63686057/89225817-3bf41100-d5b1-11ea-836b-3979704e8a06.png" alt="Logo do Projeto"></a>
+ <img src="https://user-images.githubusercontent.com/63686057/89343977-85a92e00-d67b-11ea-99bf-1a6d443428ec.png" alt="Logo do Projeto"></a>
 </p>
 
-<h3 align="center">Hamburgeria Online</h3>
+<h3 align="center">Pokemon App</h3>
 
 ---
 
@@ -11,9 +11,9 @@
     <br> 
 </p>
 
-## 🍔 Acesse o Website <a name = "acesse_website"></a>
+## 🔥 Acesse o Website <a name = "acesse_website"></a>
 
-<a href="https://shoppingonline-278e4.firebaseapp.com/home">Acesse aqui!</a>
+<a href="https://projeto-teste-agr-vai.web.app/login">Acesse aqui!</a>
 
 ## 📝 Índice
 
@@ -24,7 +24,7 @@
 
 ## 🧐 Sobre <a name = "sobre"></a>
 
-O projeto tem como objetivo realizar a réplica de uma loja online com toda as ferramentas e funcionalidas que caracterizam a grande maioria dos sites de venda na internet, as ferramentas do Firebase, React e Semantic UI foram utilizadas para auxiliar na construção dessa aplicação.
+Esse projeto pessoal faz uso das ferramentas do Firebase, React e Semantic UI, a proposta inicial é de replicar uma aplicação full stack com autenticação e consumo de API, os recursos do "storage", "firestore" e "auth" foram usados para auxiliar na construção da aplicação.
 
 ## 🏁 Primeiros Passos <a name = "primeiros_passos"></a>
 
