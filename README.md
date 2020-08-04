@@ -13,7 +13,7 @@
 
 ## 🔥 Acesse o Website <a name = "acesse_website"></a>
 
-<a href="https://projeto-teste-agr-vai.web.app/login">Acesse aqui!</a>
+<a href="https://projeto-teste-agr-vai.web.app/initialpage">Acesse aqui!</a>
 
 ## 📝 Índice
 
